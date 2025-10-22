@@ -16,4 +16,5 @@ This project contains an Exploratory Data Analysis (EDA) performed using Python 
 - To segment customers/regions using clustering (if applicable) to identify high-value markets.
 - To create interactive visual dashboards (Matplotlib/Seaborn/Power BI) to communicate insights effectively.
 
+**project pdf**
 - C:\Users\hp\Downloads\adidas sales (11).ipynb
